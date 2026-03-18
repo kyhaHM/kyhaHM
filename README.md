@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kyha
-Mathematics student at QMOL
-- 🌱 I’m currently learning programming in Python
+Mathematics student at QMUL
+- 🌱 I’m currently learning C and C++
 - 😄 Pronouns: she/her
 
 
