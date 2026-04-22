@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Kyha
-Mathematics student at QMUL
 - 🌱 I’m currently learning C and C++
 - 😄 Pronouns: she/her
 
